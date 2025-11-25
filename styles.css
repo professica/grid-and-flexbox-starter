@@ -710,12 +710,6 @@ footer{
         
     }
 
-    #plants section{
-        /* TO DO: Make these flex containers that flow in the column direction, justify with space between the elements */
-        
-        margin: 32px auto 0;
-    }
-
     #plants .price{
         /* TO DO: Assign these a flex basis of 20% so that they are all the same height */
         
